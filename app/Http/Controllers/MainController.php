@@ -13,4 +13,24 @@ class MainController extends Controller
     {
         return view('index');
     }
+
+    public function location(): View
+    {
+        return view('index');
+    }
+
+
+
+    public function activity() : View {
+        return view('index');
+    }
+    public function galerie() : View {
+        return view('index');
+    }
+    public function tourisme() : View {
+        return view('index');
+    }
+    public function contact() : View {
+        return view('index');
+    }
 }
