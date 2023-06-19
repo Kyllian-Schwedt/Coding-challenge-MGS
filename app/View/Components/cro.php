@@ -8,12 +8,15 @@ use Illuminate\View\Component;
 
 class cro extends Component
 {
+    public string $title;
+    public string $content;
     /**
      * Create a new component instance.
      */
-    public function __construct()
+    public function __construct($title, $content)
     {
-        //
+        $this->title = $title;
+        $this->content = $content;
     }
 
     /**

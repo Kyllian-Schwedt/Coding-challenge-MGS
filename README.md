@@ -7,7 +7,7 @@
 Transformer la planche Photoshop fournie en une page web. Le candidat est invité à scinder proprement son travail dans plusieurs fichiers blade. VueJS peut être utilisé si nécessaire.
 Les textes et images peuvent être intégrées de façon statique pour le moment.
 
-Resulat de l'intégration statique : ![chrome_P0moL7Dw8j.jpg](README.img%2Fchrome_P0moL7Dw8j.jpg)
+Resulat de l'intégration statique : ![chrome_P0moL7Dw8j.jpg](README.img%2Fchrome_P0moL7Dw8j.jpg) ![chrome_1qlrjDo5Xn.jpg](README.img%2Fchrome_1qlrjDo5Xn.jpg)
 
 
 
