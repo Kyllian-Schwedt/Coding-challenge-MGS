@@ -10,7 +10,7 @@
     <!-- nav -->
 
     <ul class="main-menu">
-        <li><a href="{{ route('home') }}" class="{{ Request::url() == route('home') ? 'active' : ''}}">Accueil 1</a></li>
+        <li><a href="{{ route('home') }}" class="{{ Request::url() == route('home') ? 'active' : ''}}">Accueil</a></li>
         <li>
             <a href="">Locations</a>
             <ul>
@@ -34,7 +34,7 @@
         </div>
         <div class="line">
         <div class="phone">
-            <a href="tel:+33612345678"> <svg
+            <a href="tel:+330494151738"> <svg
                     xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink"
                     width="29.5px" height="33.5px">
@@ -63,7 +63,7 @@
                 </svg> </a>
         </div>
         <div class="lang">
-            <a href="https://www.google.com" target="_blank"> <svg
+            <a href="#" target="_blank"> <svg
                     xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink"
                     width="22px" height="16px">
@@ -78,7 +78,7 @@
         </div>
         <!-- social media icons -->
         <div class="social-media">
-            <p class="follow">Suivez-nous</p>
+            <span class="follow">Suivez-nous</span>
             <div class="social-ico">
             <div class="facebook">
                 <a href="https://www.facebook.com" target="_blank"> <svg
