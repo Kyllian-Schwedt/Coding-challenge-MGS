@@ -8,7 +8,7 @@
 
         <section class="right">
             <section class="top">
-
+                <x-booking></x-booking>
             </section>
             <section class="bottom">
                 <x-alert title="-10% sur nos chambres" subTitle="Pendant tout le mois de juillet"></x-alert>
