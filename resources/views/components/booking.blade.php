@@ -68,7 +68,7 @@
             </div>
         </div>
         <div class="booking-button">
-            <button type="button" name="button">Voir les disponibilités</button>
+            <a href="#" type="button" class="button">Voir les disponibilités</a>
         </div>
     </div>
 </div>
